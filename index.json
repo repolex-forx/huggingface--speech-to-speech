@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "speech-to-speech",
+  "versions": [
+    {
+      "commit": "327a8c190d4126f8f7e06287b1086078835a5a4a",
+      "tag": "",
+      "parsed_at": "2026-11-07T22:28:54.874296+00:00"
+    }
+  ]
+}
