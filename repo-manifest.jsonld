@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/huggingface/speech-to-speech/commit/327a8c190d4126f8f7e06287b1086078835a5a4a",
       "git:hexsha": "327a8c190d4126f8f7e06287b1086078835a5a4a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/huggingface/speech-to-speech/commit/d33cfc5cefdb39bf2aff1483b30c186b021f5b95",
